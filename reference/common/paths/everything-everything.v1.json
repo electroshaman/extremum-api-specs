@@ -81,7 +81,7 @@
       "content": {
         "application/json": {
           "schema": {
-            "$ref": "../models/fundamental/patch.v1.json"
+            "$ref": "../models/system/patch.v1.json"
           },
           "example": {
             "$ref": "../models/fundamental/examples/patch.v1.json"
