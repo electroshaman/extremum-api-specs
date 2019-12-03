@@ -2,19 +2,19 @@
   "summary": "Generic object operations",
   "parameters": [
     {
-      "$ref": "../parameters.v1.json#/date"
+      "$ref": "../parameters.v1.json#/header:Date"
     },
     {
-      "$ref": "../parameters.v1.json#/user-agent"
+      "$ref": "../parameters.v1.json#/header:User-Agent"
     },
     {
-      "$ref": "../parameters.v1.json#/accept-language"
+      "$ref": "../parameters.v1.json#/header:Accept-Language"
     },
     {
-      "$ref": "../parameters.v1.json#/locale"
+      "$ref": "../parameters.v1.json#/header:X-HTTP-Method-Override"
     },
     {
-      "$ref": "../parameters.v1.json#/http-method-override"
+      "$ref": "../parameters.v1.json#/query:locale"
     },
     {
       "in": "path",
