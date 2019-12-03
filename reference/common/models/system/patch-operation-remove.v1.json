@@ -4,5 +4,10 @@
     {
       "$ref": "patch-operation.v1.json"
     }
-  ]
+  ],
+  "x-stoplight": {
+    "docs": {
+      "showModels": false
+    }
+  }
 }

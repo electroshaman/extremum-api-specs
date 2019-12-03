@@ -33,5 +33,10 @@
       "type": "string",
       "description": "The [JSON Pointer](https://tools.ietf.org/html/rfc6901) compliant path specifying certain part of the target object to operate on."
     }
+  },
+  "x-stoplight": {
+    "docs": {
+      "showModels": false
+    }
   }
 }
